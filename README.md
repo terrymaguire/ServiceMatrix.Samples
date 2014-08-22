@@ -1,4 +1,4 @@
-ServiceMatrix.OnlineSales
+ServiceMatrix.Samples
 =========================
 
-ServiceMatrix OnlineSales example using Particular.NET tutorial
+ServiceMatrix samples using Particular.NET tutorials
